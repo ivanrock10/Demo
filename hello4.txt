@@ -4,4 +4,4 @@ Hello world 2
 feature 1
 
 
-git stash
+stash
